@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Incursion",
+"productVersion": "0.1",
+"dataUrl": "IncursionWeb2.data.unityweb",
+"wasmCodeUrl": "IncursionWeb2.wasm.code.unityweb",
+"wasmFrameworkUrl": "IncursionWeb2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
